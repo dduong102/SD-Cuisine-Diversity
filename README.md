@@ -1,1 +1,0 @@
-# SD-Cuisine-Diversity
