@@ -8,3 +8,5 @@ Explore the rich and diverse culinary landscape of San Diego! This project aims 
 - **Cuisine Categorization**: Classifies cuisines into meaningful categories for analysis.
 - **Visualizations**: Provides interactive charts and maps to explore diversity by neighborhood.
 - **Insights**: Identifies cuisine gaps and emerging food trends in San Diego.
+
+Re-uploaded from my ucsd.edu GitHub account.
